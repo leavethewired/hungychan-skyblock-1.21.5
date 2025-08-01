@@ -11,4 +11,5 @@
   https://prismlauncher.org/download/windows/
 </p>
 
-## Hungychan
+## Hungychan SkyBlock modpack for 1.21.5
+with the best configs!!
