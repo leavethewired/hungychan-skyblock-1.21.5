@@ -14,5 +14,7 @@
 ## Hungychan SkyBlock modpack for 1.21.5
 with the best configs!!
 
+DOWNLOAD ZIP
+
 ### https://github.com/leavethewired/hungychan-skyblock-1.21.5/tree/main/hungychan%20sb%201.21.5
 **these are what you zip up and import**
