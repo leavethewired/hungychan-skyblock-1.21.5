@@ -8,7 +8,7 @@
 
 <p align="center">
   Import to Prism launcher or multimc or w/e!!!<br />
-  [Prism launcher](https://prismlauncher.org/download/windows/)
+  https://prismlauncher.org/download/windows/
 </p>
 
 ## Hungychan
