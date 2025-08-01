@@ -6,4 +6,8 @@
 </picture>
 </p>
 
+<p align="center">
+  Import to Prism launcher or multimc or w/e!!!<br />
+</p>
+
 ## Hungychan
